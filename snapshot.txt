@@ -1,0 +1,25 @@
+
+****JP: Procesos********************
+Probamos getpid
+PID PADRE: 0
+Creacion primer proceso
+SOY EL PADRE: Creacion primer proceso OK
+Creamos una jerarquia: un hijo y un nieto
+Creo N procesos concurrentes
+AAAAAAAAAADejo solo uno
+Solo queda el proceso 0 y Deberia ser 0
+Probando nice incorrecto(-1):: ERROR
+Probando nice incorrecto(0):: ERROR
+Probando nice correcto(10):Probando nice correcto(5):: ERROR
+Probando get_stats pid incorrecto(-1):qualsevolhistoria8fi: OK
+Probando get_stats @tics=0:Excepció de fallada de pàgina (14). El proces fallat
+és el
+
+
+
+
+
+
+
+
+
